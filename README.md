@@ -1,4 +1,23 @@
-## Hi there 👋
+Hi, I'm Mary Eden 👋
+
+🚗 Automotive Engineer with 13+ years of experience
+
+💻 Web Development Graduate
+Fanshawe College
+
+⚛️ Skills
+React • JavaScript • PHP • SQL • HTML • CSS
+
+🌐 Portfolio
+https://mary-portfolio-tau.vercel.app
+
+💼 LinkedIn
+https://linkedin.com/in/yourprofile
+
+📫 Currently looking for
+Junior Software Developer
+Front-End Developer
+Design Release Engineer
 
 <!--
 **mec22denzie/mec22denzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
