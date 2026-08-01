@@ -1,4 +1,4 @@
-Hi, I'm Mary Eden 👋
+Hi, I'm Mary Ciasico 👋
 
 🚗 Automotive Engineer with 13+ years of experience
 
@@ -12,7 +12,7 @@ React • JavaScript • PHP • SQL • HTML • CSS
 https://mary-portfolio-tau.vercel.app
 
 💼 LinkedIn
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/mary-eden-ciasico-88916b271/
 
 📫 Currently looking for
 Junior Software Developer
