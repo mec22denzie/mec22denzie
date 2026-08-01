@@ -5,11 +5,53 @@ Hi, I'm Mary Ciasico 👋
 💻 Web Development Graduate
 Fanshawe College
 
-⚛️ Skills
-React • JavaScript • PHP • SQL • HTML • CSS
+I'm an Automotive Engineer with over a decade of experience designing electrical systems for global automotive manufacturers and a recent graduate of the Web Development and Internet Applications program at Fanshawe College.
 
-🌐 Portfolio
-https://mary-portfolio-tau.vercel.app
+I'm passionate about building practical, user-friendly software solutions while continuously learning new technologies.
+
+---
+
+## 🚗 Engineering Background
+
+- 13+ years in Automotive Electrical Design
+- Wire Harness Design
+- System Design
+- Design Validation
+- Product Development
+
+---
+
+## 💻 Software Development
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- PHP
+- SQL
+- Git & GitHub
+
+---
+
+## 🌐 Portfolio
+
+**Live Portfolio**
+
+👉 https://mary-portfolio-tau.vercel.app
+
+---
+
+## 📂 Featured Projects
+
+🚀 Career Tracker
+
+🏀 React Native Basketball Game
+
+💼 Portfolio Website
+
+📊 Dashboard Application
+
+---
 
 💼 LinkedIn
 https://www.linkedin.com/in/mary-eden-ciasico-88916b271/
@@ -19,17 +61,3 @@ Junior Software Developer
 Front-End Developer
 Design Release Engineer
 
-<!--
-**mec22denzie/mec22denzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
